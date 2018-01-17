@@ -1,1 +1,1 @@
-# ToDO App Template
+# ToDo App Template
